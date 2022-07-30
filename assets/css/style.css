@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+td {
+  width: 20px;
+  height: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 50px;
+  width: 700px;
+  height: 700px;
+}
+
+th,
+td {
+  border: solid black 1px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
